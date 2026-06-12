@@ -64,13 +64,12 @@ Applied mathematician and machine learning researcher working at the intersectio
 --- -->
 
 ## 🎓 Education  
-
 ### PhD in Applied Mathematics  
-📍 :contentReference[oaicite:0]{index=0}, Canada  
+📍 McMaster University, Hamilton, Canada  
 📅 Sep. 2021 – Present  
 
 ### MSc in Maritime Civil Engineering  
-📍 :contentReference[oaicite:1]{index=1}  
+📍 University of Science and Technology, Tehran, Iran  
 📅 Sep. 2013 – Feb. 2016  
 
 ---
